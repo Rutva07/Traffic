@@ -12,7 +12,6 @@ IMG_HEIGHT = 30
 NUM_CATEGORIES = 43
 TEST_SIZE = 0.4
 
-
 def main():
 
     # Check command-line arguments
